@@ -1,4 +1,6 @@
 # Projeto de ETL e Estruturação de Dados com Apache Spark
+![image](https://github.com/user-attachments/assets/02acce2c-4b67-4134-a93d-3f33128d77e4)
+
 ### 1. Introdução
 Esse projeto foi desenvolvido como parte de um desafio de ETL. O objetivo é realizar o tratamento de dados históricos de precipitação disponiblizados pelo Instituto Nacional de Metereologia (INMET), utilizando uma aruiqtetura em camadas, focando na camada de Bronze e Prata.
 Os dados processados são provenientes do site: https://portal.inmet.gov.br/dadoshistoricos.
